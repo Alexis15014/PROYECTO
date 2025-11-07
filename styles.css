@@ -13,7 +13,7 @@ section {
 	padding: 10px; 
 } 
 
-#jeronimo {
+.jeronimo {
   background-color: #e0f7fa; 
   border: 1px solid #b2ebf2;
   border-radius: 8px; 
@@ -22,4 +22,10 @@ section {
   max-width: 600px; 
   margin: 20px auto;
   text-align: center;
+}
+
+.alexis{
+	border: 5px solid rgb(41, 73, 198);
+	padding: 15px;
+	background-color: antiquewhite;
 }
