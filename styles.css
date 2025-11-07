@@ -12,8 +12,27 @@ section {
 	margin-top: 10px; 
 	padding: 10px; 
 } 
+
 .kevin{
 	padding: 4px;
 	border :solid 3px;
 	background-color: rgb(212, 209, 119);
+}
+
+.jeronimo {
+  background-color: #e0f7fa; 
+  border: 1px solid #b2ebf2;
+  border-radius: 8px; 
+  padding: 20px;
+  width: 80%; 
+  max-width: 600px; 
+  margin: 20px auto;
+  text-align: center;
+}
+
+.alexis{
+	border: 5px solid rgb(41, 73, 198);
+	padding: 15px;
+	background-color: antiquewhite;
+
 }
